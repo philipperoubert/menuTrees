@@ -16,4 +16,5 @@ then
  echo Link failed
  fi
 else
- echo Compil
+ echo Compile failed
+fi
